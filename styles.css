@@ -15,8 +15,8 @@ body {
 }
 
 .inner_container {
-    width: 440px;
-    height: 600px;
+    width: 350px;
+    height: 550px;
     background-color: white;
     display: grid;
     justify-content: center;
@@ -33,29 +33,28 @@ body {
 }
 
 .top_img img {
-    width: 390px;
+    width: 310px;
     border-radius: 1rem;
 }
 
 .learn {
-    width: 6.1rem;
-    /* margin-left: 2rem; */
-    margin: 1.3rem 0 -.1rem 0rem;
+    width: 5.8rem;
+    margin: 1.3rem 0 -.1rem 0.2rem;
     padding: .5rem 1rem;
     border-radius: .3rem;
-    font-size: .9rem;
+    font-size: .8rem;
     font-family: "Figtree", sans-serif;
     background-color: rgb(255, 205, 57);
 }
 
 .date {
-    margin-top: .8rem;
+    margin: 0.8rem 0 0 0.2rem;
     font-family: "Figtree", sans-serif;
 }
 
 .header {
-    margin: 1rem 0 0.7rem 0;
-    font-size: 1.1rem;
+    margin: 1rem 0 0.7rem 0.2rem;
+    font-size: 1rem;
     font-family: "Figtree", sans-serif;
 }
 
@@ -69,9 +68,10 @@ body {
 }
 
 .intro {
-    font-size: 1.1rem;
+    font-size: .98rem;
+    margin-left: 0.2rem;
     font-family: "Figtree", sans-serif;
-    line-height: 1.8rem;
+    line-height: 1.5rem;
     color: rgb(155, 155, 155);
 }
 
