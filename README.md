@@ -31,7 +31,7 @@ Your users should be able to:
 
 ## Links
 
-- Solution URL:(https://github.com/jenkx60/Social-Links-Profile-Card)
+- Solution URL:(https://github.com/jenkx60/blog-preview-card)
 - Live Site URL: (https://blog-review-card-main.netlify.app/)
 
 
